@@ -9,9 +9,10 @@ Earth Observation and geospatial researcher at <a href="https://www.restec.or.jp
 <h2> Personal information </h2>
 
 <p> Email (1): <a href="pegah_hk@restec.or.jp">pegah_hk@restec.or.jp</a>
-    Email (2): <a href="phkh1366@iis.u-tokyo.ac.jp">phkh1366@iis.u-tokyo.ac.jp</a>
- <p>
+    ; <a href="phkh1366@iis.u-tokyo.ac.jp">phkh1366@iis.u-tokyo.ac.jp</a>  <p>
 
+<p> Address: TOKYU REIT Toranomon Bldg. 2F,3-17-1 Toranomon, Minato-ku, Tokyo 105-0001, Japan <p>
+    
 <hr>
 
 
