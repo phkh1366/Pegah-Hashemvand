@@ -21,5 +21,5 @@ Earth Observation and geospatial researcher at <a href="https://www.restec.or.jp
 <blockquote>Here my info will appeare.</blockquote>
 <hr width="150">
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Image]()
 
