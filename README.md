@@ -8,7 +8,7 @@ Earth Observation and geospatial researcher at <a href="https://www.restec.or.jp
 
 <h2> Personal information </h2>
 
-<p> <blockquote>Here my info will appeare.</blockquote>
+<p> Email: <a href="pegah_hk@restec.or.jp">pegah_hk@restec.or.jp</a>
  <p>
 
 <hr>
