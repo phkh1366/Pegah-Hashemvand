@@ -2,7 +2,7 @@
 
 
 Earth Observation and geospatial researcher at <a href="https://www.restec.or.jp/en/index.html"> Remote Sensing Technology Center of Japan</a>
-<hr width="400",style="color:#483D8B"r>
+<hr width="400">
 
 
 
@@ -20,3 +20,6 @@ Earth Observation and geospatial researcher at <a href="https://www.restec.or.jp
 
 <blockquote>Here my info will appeare.</blockquote>
 <hr width="150">
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+
