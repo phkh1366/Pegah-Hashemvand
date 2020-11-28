@@ -51,7 +51,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Geospatial and earth observation researcher at "Remote Sensing Technology Center of Jaopan"
+        title: Remote Sensing Technology Center of Japan
         link: https://www.restec.or.jp/
         link_text: RESTEC
 #         additional_links:
@@ -62,9 +62,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          RESTEC provides solutions that match the needs of its customers, based on the knowhow it has accumulated through the reception, processing, analysis, and distribution of earth observation data within Japan and overseas.
+          Geospatial and earth observation researcher in solution service Dept.II 
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          RESTEC provides solutions that match the needs of its customers, based on the knowhow it has accumulated through the reception, processing, analysis, and distribution of earth observation data within Japan and overseas.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
