@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Pegah Hashemvand Khiabani (Ph.D.)
 title: Geospatial and earth observation researcher
-email: pegah_hk@restec.or.jp
-email: phkh1366@iis.u-tokyo.ac.jp 
+email1: pegah_hk@restec.or.jp
+email2: phkh1366@iis.u-tokyo.ac.jp 
 website: https://phkh1366.github.io/Pegah-Hashemvand/
 
 # Dark Mode (true/false/never)
@@ -23,7 +23,7 @@ github_username:  phkh1366
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: p66_hashemvand
-linkedin_username: p.hashemvand
+linkedin_username: pegah-hashemvand
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
