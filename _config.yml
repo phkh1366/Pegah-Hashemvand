@@ -99,7 +99,7 @@ content:
 #           Title: Ghazvin’s land suitability assessment using GIS based multi-criteria approach for major crops. 
 #         description: | # this will include new lines to allow paragraphs
   - title: Fellowship
-     layout: list # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Global Leader Program for Social Design and Management (GSDM)
