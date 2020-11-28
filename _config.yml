@@ -98,16 +98,26 @@ content:
 #         quote: >
 #           Title: Ghazvin’s land suitability assessment using GIS based multi-criteria approach for major crops. 
 #         description: | # this will include new lines to allow paragraphs
+  - title: Fellowship
+     layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Global Leader Program for Social Design and Management (GSDM)
+        caption: October 2016 - September 2019
+        sub_title: The University of Tokyo
+        link: https://gsdm.u-tokyo.ac.jp/en/
+        link_text: GSDM
+        description: The Global Leader Program for Social Design and Management (GSDM) is an interdisciplinary doctoral program to train top leaders for today’s global society.
 
-
-  - title: Main Poblications
+  - title: Peer-reviewed  Poblications
     layout: text
     content: | # this will include new lines to allow paragraphs
-     Peer-reviewed Articles
         - Hashemvand P. & Takeuchi W. (2020) [Assessment of oil palm yield and biophysical suitability in Indonesia and Malaysia](https://drive.google.com/file/d/1yLd4zU93WyjQaXKEoDOx2AWwHvqfPkDv/view?usp=sharing), International Journal of Remote Sensing, 41:22, 8520-8546, DOI: 10.1080/01431161.2020.1782503
         - Hashemvand Khiabani P., Takeuchi W. (2020) [Supporting Oil Palm Replanting Programs Using UAV and GIS in Malaysia](https://drive.google.com/file/d/1_jvCa73IZ3A3DyxAEn3SEIwGTMya4Lyz/view?usp=sharing). In: Avtar R., Watanabe T. (eds) Unmanned Aerial Vehicle: Applications in Agriculture and Environment. Springer, Cham. https://doi.org/10.1007/978-3-030-27157-2_6
+    
+  - title: Conference Papers
+    layout: text
     content: | # 
-     Conference Papers
         - Hashemvand P., Takeuchi W., 2019. Assessment of biophysical suitability of oil palm and its actual yield in Malaysian oil palm plantations. International Symposium on Remote Sensing 2019 (ISRS), T aipei, T aiwan, 2019/4/17; Oral presentation.
         - Hashemvand P., Takeuchi W., 2019. Assessing Oil Palm Yield Gap at The Location of Malaysian and Indonesian exciting Plantations from Perspective of Bio-Physical Suitability. 第27回 生研フォーラム「宇宙からの地球環境・災 害のモニタリングとリスク評価」:東京大学生産技術研究所 (東京都目黒区); 2019/3/6; Poster.
         - Hashemvand P., Takeuchi W., 2018. Mapping oil palm expansion from 2000 to 2017 in Indonesia and Malaysia. 39th Asian Conference on Remote Sensing (ACRS), Kuala Lumpur, Malaysia. 2018/10/15; Oral presentation.
@@ -115,8 +125,12 @@ content:
         - Hashemvand P., Takeuchi W., 2018. Impact of el Nino-southern oscillation (ENSO) on Oil palm bio-physical Suitability in Indonesia and Malaysia. 第 26回 生研フォーラム「宇宙からの地球環境・災害のモニタリングとリスク評 価」:東京大学生産技術研究所 (東京都目黒区), 2018/3/6; Poster.
         - Hashemvand P., Takeuchi W., 2017. Automated oil palm crown detection using unmanned aerial vehicle imagery in Malaysia. 38th Asian Conference on Remote Sensing: Delhi, India. 2017/08/24; Oral presentation.
 
-
-
+- title: HONORS AND AWARDS
+    layout: text
+    content: | 
+       - Best Poster award; 27th IIS forum ‘Earth observation, disaster monitoring and risk management from space; Assessment of biophysical suitability of oil palm and its actual yield in Malaysian oil palm plantations. (2019/03/08)
+       - Bronze Prize; 39th Asian Conference of Remote Sensing (ACRS) 2018 WEBCON8; An interactive Oil palm monitoring map (GEE web-based application). (2018/10/19)
+       - Encouragement award; IIS Ph.D. Student Lives 2018; Biophysical modeling of oil palm yield. (2018/08/08)
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
