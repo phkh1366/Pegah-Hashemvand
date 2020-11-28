@@ -98,16 +98,16 @@ content:
 #         quote: >
 #           Title: Ghazvin’s land suitability assessment using GIS based multi-criteria approach for major crops. 
 #         description: | # this will include new lines to allow paragraphs
- - title: Fellowship # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Global Leader Program for Social Design and Management (GSDM)
-        caption: October 2016 - September 2019
-        sub_title: The University of Tokyo
-        link: https://gsdm.u-tokyo.ac.jp/en/
-        link_text: GSDM
-        description: The Global Leader Program for Social Design and Management (GSDM) is an interdisciplinary doctoral program to train top leaders for today’s global society.
+#  - title: Fellowship # Title for the section
+#     layout: list # Type of content section (list/text)
+#     content:
+#       - layout: left
+#         title: Global Leader Program for Social Design and Management (GSDM)
+#         caption: October 2016 - September 2019
+#         sub_title: The University of Tokyo
+#         link: https://gsdm.u-tokyo.ac.jp/en/
+#         link_text: GSDM
+#         description: The Global Leader Program for Social Design and Management (GSDM) is an interdisciplinary doctoral program to train top leaders for today’s global society.
 
   - title: Peer-reviewed  Poblications
     layout: text
