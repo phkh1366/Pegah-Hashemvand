@@ -86,6 +86,8 @@ content:
             To close the existing gap, key causes and the magnitude of the gap need to be addressed. Potential and actual yields are two main components of yield gap assessment. Estimation of potential yield is the most critical part of the yield gap assessment. So far, a limited number of attempts have been made to model oil palm potential yield. However, as oil palm is extended in a considerable spatial and temporal heterogeneous area, estimated potential yields through existing models do not represent an entire country and are not consider a full range of conditions. Also, the majority of the existing models are demanding in terms of vegetation measurement data. While remote sensing-based yield simulation models can complement traditional site-specific models due to their unbeatable spatial and temporal coverage. 
             Although so far spaceborne and airborne remote sensing have been used to extract required information for oil palm potential and actual yields estimation, yet there is no attempt integrating remote sensing data to model oil palm yields for yield gap assessment. 
             Therefore, the objective of this study was to develop a model and methodology to assess oil palm potential and actual yields using publicly available remote sensing data and platforms in Indonesia and Malaysia. Leveraging spatial-temporal coverage of remote sensing data, this research was able to test this hypothesis that Malaysia and Indonesia have developed different trajectory of land use to satisfy the global demand in which Malaysia has more invested on narrowing yield gap through intensification while Indonesia has been more in favor of land expansion.
+  
+  - title: 
        layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -96,8 +98,9 @@ content:
         caption: September 2011 - February 2014
         quote: >
           Title: Ghazvin’s land suitability assessment using GIS based multi-criteria approach for major crops. 
-        description: | # this will include new lines to allow paragraphs
-       
+#         description: | # this will include new lines to allow paragraphs
+  
+  - title:       
        layout: list # Type of content section (list/text)
     content:
       - layout: left
