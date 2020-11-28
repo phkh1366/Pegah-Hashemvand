@@ -57,33 +57,48 @@ content:
            Project: Smart Cookstove Project. 
            A show case of how Internet of Things (IoT) and satellite imagery data can be coupled with blockchain verification methods to create levels of transparency and trust in carbon market.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            RESTEC aims to contribute to communities and to the lives of the people by utilizing its remote sensing technologies in a wide range of areas, including the agriculture, forestry, and fishery industries, environment, disaster prevention, map information, and education.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Ph.D., The Uninversity of Tokyo, Japan
+        caption: September 2016 - September 2019
+        sub_title: Civil Engineering (Remote Sensing)
+        link: http://wtlab.iis.u-tokyo.ac.jp/en/index_e.html
+        link_text: Remote sensing of environment and disaster Lab. 
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Title: Biogeophysical modeling of oil palm yield in Malaysia and Indonesia 
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+            Elaeis guineensis known as oil palm is extensively cultivated in South-East Asia, especially in Indonesia and Malaysia. Due to the significant revenue of this industry, this sector plays a crucial role in the national development of Indonesia and Malaysia. However, expansion and intensification of this industry have not been robustly managed and caused a range of significant negative impacts. Apart from the challenges caused by this industry, the most crucial technical challenge of this sector is that its actual yields per unit of area are well below potential levels and have stagnated over the last two decades. Narrowing this gap is the only path that ensures this industry’s prosperity as it increases the revenue without compromising its environmental impacts. 
+            To close the existing gap, key causes and the magnitude of the gap need to be addressed. Potential and actual yields are two main components of yield gap assessment. Estimation of potential yield is the most critical part of the yield gap assessment. So far, a limited number of attempts have been made to model oil palm potential yield. However, as oil palm is extended in a considerable spatial and temporal heterogeneous area, estimated potential yields through existing models do not represent an entire country and are not consider a full range of conditions. Also, the majority of the existing models are demanding in terms of vegetation measurement data. While remote sensing-based yield simulation models can complement traditional site-specific models due to their unbeatable spatial and temporal coverage. 
+            Although so far spaceborne and airborne remote sensing have been used to extract required information for oil palm potential and actual yields estimation, yet there is no attempt integrating remote sensing data to model oil palm yields for yield gap assessment. 
+            Therefore, the objective of this study was to develop a model and methodology to assess oil palm potential and actual yields using publicly available remote sensing data and platforms in Indonesia and Malaysia. Leveraging spatial-temporal coverage of remote sensing data, this research was able to test this hypothesis that Malaysia and Indonesia have developed different trajectory of land use to satisfy the global demand in which Malaysia has more invested on narrowing yield gap through intensification while Indonesia has been more in favor of land expansion.
+  
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: M.Sc., The Uninversity of Tehran, Iran
+        caption: September 2011 - February 2014
+        sub_title: Agricultural Engineering (Soil’s genesis, taxonomy and land suitability assessment)
+        link: https://aet.ut.ac.ir/en
+        link_text: Faculty of Agricultural Engineering & Technology
+        quote: >
+          Title: Ghazvin’s land suitability assessment using GIS based multi-criteria approach for major crops. 
+#         description: | # this will include new lines to allow paragraphs
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: B.Sc., The Uninversity of Tehran, Iran
+        caption: September 2006 - September 2010
+        sub_title: Agricultural Engineering (Soil’s genesis, taxonomy and land suitability assessment)
+        link: https://aet.ut.ac.ir/en
+        link_text: Faculty of Agricultural Engineering & Technology
+#         quote: >
+#           Title: Ghazvin’s land suitability assessment using GIS based multi-criteria approach for major crops. 
+#         description: | # this will include new lines to allow paragraphs
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
