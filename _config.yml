@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Pegah Hashemvand Khiabani
+name: Pegah Hashemvand Khiabani (Ph.D.)
 title: Geospatial and earth observation researcher
 email: pegah_hk@restec.or.jp,  phkh1366@iis.u-tokyo.ac.jp 
 website: www.github.com/phkh1366
@@ -100,14 +100,12 @@ content:
 #         description: | # this will include new lines to allow paragraphs
 
 
-  - title: A Little More About Me
+  - title: Main Poblications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Hashemvand P. & Takeuchi W. (2020) [Assessment of oil palm yield and biophysical suitability in Indonesia and Malaysia](https://drive.google.com/file/d/1yLd4zU93WyjQaXKEoDOx2AWwHvqfPkDv/view?usp=sharing), International Journal of Remote Sensing, 41:22, 8520-8546, DOI: 10.1080/01431161.2020.1782503
+      - Hashemvand Khiabani P., Takeuchi W. (2020) [Supporting Oil Palm Replanting Programs Using UAV and GIS in Malaysia](https://drive.google.com/file/d/1_jvCa73IZ3A3DyxAEn3SEIwGTMya4Lyz/view?usp=sharing). In: Avtar R., Watanabe T. (eds) Unmanned Aerial Vehicle: Applications in Agriculture and Environment. Springer, Cham. https://doi.org/10.1007/978-3-030-27157-2_6
+
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
