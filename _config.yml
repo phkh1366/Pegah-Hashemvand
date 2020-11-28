@@ -24,21 +24,6 @@ linkedin_username: p.hashemvand@gmail.com
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
 # About Section
 # about_title: About Me
 about_profile_image: IMG_3744.JPG
@@ -50,21 +35,17 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Remote Sensing Technology Center of Japan
-        link: https://www.restec.or.jp/
+        link: https://www.restec.or.jp/en/index.html
         link_text: RESTEC
-#         additional_links:
-#           - title:  sproogen/modern-resume-theme
-#             icon: fab fa-github
-#             url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Geospatial and earth observation researcher in solution service Dept.II 
+        sub_title: Geospatial and earth observation researcher at Solution service Dept.II
+        caption: April 2020 - Present
+#         quote: >
+#           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          RESTEC provides solutions that match the needs of its customers, based on the knowhow it has accumulated through the reception, processing, analysis, and distribution of earth observation data within Japan and overseas.
+           RESTEC aims to contribute to national and international communities and to the lives of the people by utilizing its remote sensing technologies in a wide range of areas, including the agriculture, forestry, and fishery industries, environment, disaster prevention, map information, and education.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
