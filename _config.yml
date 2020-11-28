@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Pegah Hashemvand Khiabani
+name: Pegah Hashemvand Khiabani (Ph.D.)
 title: Geospatial and earth observation researcher
-email: pegah_hk@restec.or.jp, 
-       phkh1366@iis.u-tokyo.ac.jp 
+email: pegah_hk@restec.or.jp
+email: phkh1366@iis.u-tokyo.ac.jp 
 website: https://phkh1366.github.io/Pegah-Hashemvand/
 
 # Dark Mode (true/false/never)
@@ -47,11 +47,9 @@ linkedin_username: p.hashemvand
 
 # About Section
 # about_title: About Me
-about_profile_image: images/IMG_3744.JPG
+about_profile_image: IMG_3744.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's Pegah Hashemvand Khiabani. My specialty is spaceborne and airborne data analytics. I'm particularly interested in the application of remote sensing in agriculture and the enviroment.
 
 content:
   - title: Projects # Title for the section
