@@ -36,16 +36,26 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Remote Sensing Technology Center of Japan
+        title: Remote Sensing Technology Center of Japan, Tokyo, Japan
         link: https://www.restec.or.jp/en/index.html
         link_text: RESTEC
         sub_title: Geospatial and earth observation researcher at Solution service Dept.II
         caption: April 2020 - Present
-#         quote: >
-#           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
            RESTEC aims to contribute to national and international communities and to the lives of the people by utilizing its remote sensing technologies in a wide range of areas, including the agriculture, forestry, and fishery industries, environment, disaster prevention, map information, and education.
-
+    
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Carbon Capital Advisors, Tokyo, Japan
+        link: https://carboncapitaladvisors.com/
+        link_text: Carbon Capital Advisors
+        sub_title: Geospatial and earth observation Consultant
+        caption: September 2019 - November 2019
+        description: | # this will include new lines to allow paragraphs
+           Project: Smart Cookstove Project. 
+           A show case of how Internet of Things (IoT) and satellite imagery data can be coupled with blockchain verification methods to create levels of transparency and trust in carbon market.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
