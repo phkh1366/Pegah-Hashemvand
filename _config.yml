@@ -98,7 +98,7 @@ content:
 #         quote: >
 #           Title: Ghazvin’s land suitability assessment using GIS based multi-criteria approach for major crops. 
 #         description: | # this will include new lines to allow paragraphs
-  - title: Fellowship
+ - title: Fellowship # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
