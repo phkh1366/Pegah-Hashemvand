@@ -4,13 +4,11 @@ favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
-
 # Personal info
 name: Pegah Hashemvand Khiabani (Ph.D.)
 title: Geospatial and earth observation researcher
 email: pegah_hk@restec.or.jp , phkh1366@iis.u-tokyo.ac.jp 
 website: https://phkh1366.github.io/Pegah-Hashemvand/
-
 # Dark Mode (true/false/never)
 darkmode: false
 
@@ -18,15 +16,9 @@ darkmode: false
 twitter_username: p66_hashemvand
 github_username:  phkh1366
 # stackoverflow_username: "00000001"
-# dribbble_username: jekyll
 # facebook_username: jekyll
-# flickr_username: jekyll
 instagram_username: p66_hashemvand
 linkedin_username: p.hashemvand@gmail.com
-# xing_username: j ekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
@@ -38,11 +30,6 @@ linkedin_username: p.hashemvand@gmail.com
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
@@ -76,7 +63,7 @@ content:
       - layout: left
         title: Ph.D., Civil Engineering (Remote Sensing)
         link: http://wtlab.iis.u-tokyo.ac.jp/en/index_e.html
-        # link_text: boringcompany.com
+        link_text: Remote sensing of environment and disaster Lab. 
         sub_title: Institute of industrial science, The University of Tokyo, Tokyo, Japan 
         caption: September 2016 - September 2019
         quote: >
@@ -86,23 +73,16 @@ content:
             To close the existing gap, key causes and the magnitude of the gap need to be addressed. Potential and actual yields are two main components of yield gap assessment. Estimation of potential yield is the most critical part of the yield gap assessment. So far, a limited number of attempts have been made to model oil palm potential yield. However, as oil palm is extended in a considerable spatial and temporal heterogeneous area, estimated potential yields through existing models do not represent an entire country and are not consider a full range of conditions. Also, the majority of the existing models are demanding in terms of vegetation measurement data. While remote sensing-based yield simulation models can complement traditional site-specific models due to their unbeatable spatial and temporal coverage. 
             Although so far spaceborne and airborne remote sensing have been used to extract required information for oil palm potential and actual yields estimation, yet there is no attempt integrating remote sensing data to model oil palm yields for yield gap assessment. 
             Therefore, the objective of this study was to develop a model and methodology to assess oil palm potential and actual yields using publicly available remote sensing data and platforms in Indonesia and Malaysia. Leveraging spatial-temporal coverage of remote sensing data, this research was able to test this hypothesis that Malaysia and Indonesia have developed different trajectory of land use to satisfy the global demand in which Malaysia has more invested on narrowing yield gap through intensification while Indonesia has been more in favor of land expansion.
-  
-  - title: 
-       layout: list # Type of content section (list/text)
-    content:
+            
       - layout: left
         title: M.Sc., Agricultural Engineering (Soil’s genesis, taxonomy and land suitability assessment)
         link: https://aet.ut.ac.ir/en
-        # link_text: boringcompany.com
+        link_text: Faculty of Agricultural Engineering & Technology
         sub_title: College of Agriculture and Natural Resources, The University of Tehran, Tehran, Iran 
         caption: September 2011 - February 2014
         quote: >
           Title: Ghazvin’s land suitability assessment using GIS based multi-criteria approach for major crops. 
-#         description: | # this will include new lines to allow paragraphs
-  
-  - title:       
-       layout: list # Type of content section (list/text)
-    content:
+
       - layout: left
         title: B.Sc., Agricultural Engineering (Soil’s genesis, taxonomy and land suitability assessment)
         link: https://aet.ut.ac.ir/en
